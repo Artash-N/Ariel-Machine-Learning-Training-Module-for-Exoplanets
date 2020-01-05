@@ -1,6 +1,6 @@
 # Ariel-Machine-Learning-Training-Module-for-Exoplanets
 Create your Machine Learning Neural Network to reduce the noise in exoplanet observations. (Ariel Telescope Data Simulation)
-#
+#  
 
 Over 4,000 exoplanets have been discovered by space and ground-based telescopes. There may be billions or even trillions of these exoplanets in our galaxy alone. More space-based telescopes are coming up to accelerate this search for the exoplanets such as the Wide-Field Infrared Survey Telescope (WFIRST), the James Webb Space Telescope (JWST) and the Atmospheric Remote-sensing Infrared Exoplanet Large-survey (ARIEL) Space Mission.
 
