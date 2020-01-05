@@ -14,7 +14,7 @@ To find what elements exist in the oberved exoplanet's atmosphere, the telescope
 
 When a planet goes in front or transits its parent star, its main body blocks out some light of the star creating a dip in the light curve. But the atmosphere surrounding the planet around will also absorb some of this light depending on the gas molecules present in the atmosphere. This light is absorbed to different degrees at different wavelengths depending on the different gasses present in the atmosphere. ie the depth of the transit varies for different wavelengths.
 
-![Stellar Spots interfering with light curve measurment](stellar spot interference.png)
+![Stellar Spots interfering with light curve measurment](https://github.com/Artash-N/Ariel-Machine-Learning-Training-Module-for-Exoplanets/blob/master/stellar%20spot%20interference.png)
 
 But accurately predicting the radius ratio of the exoplanet to the star is a complex task, as there will be noise in the light curve data cause by stellarspots on the star's surface
 
