@@ -29,3 +29,6 @@ Another dataset was given: the test database. It consisted of 63,000 simulated l
 
 The goal of the competition was to accurately predict the relative radii or ratio of the radius of the star to the radius of the planet for each of the light curves in the test database.
 
+#
+
+For more information, please visit : https://hotpoprobot.com/2019/09/15/predicting-exoplanetary-atmosphere-using-machine-learning-the-ariel-data-challenge-2019/   
